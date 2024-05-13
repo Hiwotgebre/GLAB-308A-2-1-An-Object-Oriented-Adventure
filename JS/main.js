@@ -49,5 +49,5 @@ Adventurer.prototype.scout = function() {
 
 // Example of using the method
 robin.scout();
-robin.roll();
+
 
